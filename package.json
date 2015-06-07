@@ -12,7 +12,7 @@
     "node": "0.10.x"
   },
   "homepage": "http://elazigaday.com/",
-  "author": "akpartiaday.com",
+  "author": "elazigaday.com",
   "license": "MIT",
   "dependencies": {
     "express": "^4.8.7",
